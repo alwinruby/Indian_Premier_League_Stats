@@ -1,5 +1,7 @@
 # Indian Premier League Statistics
 
+The dataset that we use in this notebook is IPL (Indian Premier League) Dataset posted on Kaggle Datasets sourced from cricsheet.
+
 **Questions:**
 
     How many matches we’ve got in the dataset?
